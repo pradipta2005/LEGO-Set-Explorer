@@ -1,0 +1,25 @@
+How many total LEGO sets are there?
+How many sets are there per theme?
+What is the average price of sets?
+What is the average number of pieces per set?
+Which set has the maximum price?
+Which set has the minimum number of pieces?
+Count of sets by age range
+Count of sets by price range ($, $$, $$$)
+
+
+📊 Product Analysis
+Which theme has the highest number of sets?
+Which themeGroup generates the highest average price?
+Top 5 sets with the highest price per piece ratio
+Which sets give best value for money (low price, high pieces)?
+
+📈 Trend Analysis
+Number of sets released per year
+Average price trend over the years
+Are newer sets more expensive?
+
+👶 Customer Segmentation (Age-Based)
+Which age range has the most products?
+Average price by age range
+Which age group gets the most complex sets (pieces)?
